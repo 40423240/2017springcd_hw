@@ -2,6 +2,6 @@
 
 國立虎尾科技大學機械設計工程系 2017 Spring 協同產品設計實習課程
 
-https://mdecourse.github.io/2017springcd
+簡報: https://40423240.github.io/2017springcd_hw
 
-https://mdecourse.github.io/2017springcd/blog
+網址: https://40423240.github.io/2017springcd_hw/blog/
